@@ -1,0 +1,26 @@
+-   What is Pune coders ?
+    -   A common platform to discuss ideas for people based in Pune
+    -   This is not a platform for recruiting or job hunting
+    -   This is not platform for promoting products unless it's strictly related to tech and promotes new ideas ex. an IDE, a data store engine etc.
+-   General communitiy conduct
+    -   Be nice
+    -   Contribute to channel by interacting with people before posting links to your work/blogpost/code
+    -   Behaviour which can be reasonably considered harassment will not be tolerated
+    -   Technical arguments
+        -   Keep it short
+        -   Stick to facts
+        -   Leave people out of it.
+        -   No flame wars
+-   Slack etiquettes
+    -   To avoid chattyness start thread on a conversation
+    -   If someone has made your point add :thumbsup: to avoid noise
+    -   Don't put unrelated things on focused channels. Use #general or #random
+    -   Use #meetups for event announcements
+    -   General guidelines on asking questions
+        -   <https://softwareengineering.stackexchange.com/questions/154676/etiquette-when-asking-questions-in-an-irc-channel>
+        -   <https://www.ruby-lang.org/en/community/mailing-lists/ruby-talk-guidelines/>
+-   Recommendations
+    -   Announce meetups / events on #events channel for better visibility.
+-   Links
+    -   Clojure mailing list decorum - <https://groups.google.com/forum/#!msg/clojure/t0pGIuoyB7I/RQtuuAOhes8J>
+    -   Ruby community conduct - <https://www.ruby-lang.org/en/conduct/>
