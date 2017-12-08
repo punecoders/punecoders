@@ -9,13 +9,12 @@
     -   Technical arguments
         -   Keep it short
         -   Stick to facts
-        -   Leave people out of it.
+        -   Leave people out of it
         -   No flame wars
 -   Slack etiquettes
     -   To avoid chattyness start thread on a conversation
     -   If someone has made your point add :thumbsup: to avoid noise
     -   Don't put unrelated things on focused channels. Use #general or #random
-    -   Use #meetups for event announcements
     -   General guidelines on asking questions
         -   <https://softwareengineering.stackexchange.com/questions/154676/etiquette-when-asking-questions-in-an-irc-channel>
         -   <https://www.ruby-lang.org/en/community/mailing-lists/ruby-talk-guidelines/>
